@@ -1,0 +1,4 @@
+all: Salary
+Pointers: Salary.c
+	cc Salary.c -o Salary.cs
+
